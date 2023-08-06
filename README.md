@@ -25,7 +25,7 @@ classes) in the frames seen by your device's back camera, using a fine tuned pre
     Android Studio project.
 
 *   From the Open File or Project window that appears, navigate to and select
-    the tensorflow-lite/examples/object_detection/android directory. Click OK.
+    the Cats-Facial-Detection-MobileNet-V2-SSD directory. Click OK.
 
 *   If it asks you to do a Gradle Sync, click OK.
 
