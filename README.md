@@ -5,7 +5,7 @@
 This is a camera app that continuously detects the cats in the frames seen by your device's back camera, using a fine tuned pre-trained MobileNetV2 SSD model.
 
 ### Contributors
-Mariam Mamdouh . Vivianne Emad . Narid Milad . Yara Osama . Yara Magdy . Manar Kamal . Noor Ashraf . Youssef Ekramy
+Mariam Mamdouh . Vivianne Emad . Nardin Milad . Yara Osama . Yara Magdy . Manar Kamal . Noor Ashraf . Youssef Ekramy
 
 
 ## Build the demo using Android Studio
